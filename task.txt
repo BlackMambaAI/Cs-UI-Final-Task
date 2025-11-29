@@ -1,0 +1,64 @@
+Provide C# WinForms app with Remarks, Classes, Inheritance, Abstraction, Polymorphism, Interface, Error Handling and useage of Panels for UI.
+
+"Students" array:
+id - of the student; unique.
+username - unique.
+password - of the corresponding username.
+name - of the student.
+birth date - Date.
+age - calculated from birth date.
+cellular number - of the student.
+email - of the student.
+picture - of the student.
+major of studies - related to "Major of studies" array.
+apprenticeship - of the major of studies.
+courses taken - an array from the closed list defined at courses array at "Major of studies" array.
+current credit points - the sum of credit points from courses taken.
+total credit points - the sum of the credit points of all courses related to the "Major of studies" array.
+
+"Major of studies" array:
+name - of the major of studies.
+courses - an array of 15 elements consist of course name and credit points.
+
+"Notifications" array:
+username of sender
+username of receiver
+notification
+timestamp
+starred
+
+"Login" form:
+fields: username, password.
+buttons: 
+Login - 
+checks that fileds are not empty with relevant message.
+checks that username and password match against "Students" array  with relevant message.
+Cancel - clears the fileds content.
+link:
+new user? - links to "Create new user" form.
+
+"Create new user" form:
+fields: Id, username, password, confirm password.
+buttons:
+Create - 
+checks that fileds are not empty with relevant message with relevant message.
+checks that username do not match any existing "Students" array username with relevant message.
+checks that id do not match any existing "Students" array id with relevant message.
+checks that password equals confirm password with relevant message.
+On all checks OK, adds the username, password and id into "Students" array and set points with a random number.
+Cancel - returns back to "Login" form.
+
+"Information of logged student" form:
+button:
+logout - returns back to "Login" form.
+personal information tab: the information from "Students" array: username, name, picture, last notification.
+courses tab: a list of all courses matches major of studies, credit points, indication if taken.
+notifications tab: present all notifications: sender, notification, timestamp, starred. can sort by timestamp or by starred first.
+serach student tab:
+can search by by id or by name (also by partial data).
+present a list of students match search criteria - name, email, major of studies, apprenticeship.
+place next to each found student a button to send notification - save date into "Notifications" array with entered notification and starred indication.
+settings tab:
+reflected on all UI objects.
+background color of forms - default white. a pallete to choose.
+font size - default 12. up and down arrows.
