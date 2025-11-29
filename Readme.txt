@@ -1,4 +1,6 @@
-Structure:
+#### Zipped file "UIFinalTask.zip" contains all files in their corresponding structured folders ####
+
+Solution structure:
 Project Overview
 •	Program.cs → Entry point, launches FormLogin.
 •	FormLogin (Form1) → Login screen with password hashing, validation, and navigation to the dashboard.
@@ -21,4 +23,3 @@ Complete mini system:
 1.	Login → validates credentials.
 2.	Sign up → creates new account with personal info.
 3.	Dashboard → shows personal info, courses, notifications, allows communication, and control visuality.
-
