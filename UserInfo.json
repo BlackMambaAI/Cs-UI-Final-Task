@@ -1,0 +1,35 @@
+{
+  "999999999": {
+    "Username": "lulu",
+    "Password": "0kNeiPNXW\u002BPudioxg2KVSBZfntaoGmqxNyWWfjxy7zY=",
+    "IdNumber": "999999999",
+    "FullName": "lulu lemon",
+    "BirthDate": "1980-11-15T16:35:50.749",
+    "Age": 44,
+    "CellularNumber": "050-9999999",
+    "Email": "lulu@lemon.com",
+    "Major": "Computer Science"
+  },
+  "555555555": {
+    "Username": "kuku",
+    "Password": "gaUEMpNK9GQiJ6FWG/DcOroPS4L5BMEeEugvYeA08to=",
+    "IdNumber": "555555555",
+    "FullName": "kuku hakof",
+    "BirthDate": "1980-11-22T08:19:32.713",
+    "Age": 44,
+    "CellularNumber": "050-1234567",
+    "Email": "kuku@hakof.co.il",
+    "Major": "Business Administration"
+  },
+  "123456789": {
+    "Username": "pupu",
+    "Password": "JKnB5SfE41AeCY1Ieqc81rA8D/tJ0udSuN2HsrhoRmA=",
+    "IdNumber": "123456789",
+    "FullName": "pupu lumpu",
+    "BirthDate": "1975-11-23T14:39:12.596",
+    "Age": 49,
+    "CellularNumber": "050-8888888",
+    "Email": "pupu@gmail.com",
+    "Major": "Computer Science"
+  }
+}

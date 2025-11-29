@@ -1,0 +1,114 @@
+[
+  {
+    "SenderUsername": "alice123",
+    "ReceiverUsername": "moti_dev",
+    "NotificationText": "Your project submission has been approved.",
+    "Timestamp": "2025-11-15T14:32:00",
+    "Starred": true
+  },
+  {
+    "SenderUsername": "admin_bot",
+    "ReceiverUsername": "lulu",
+    "NotificationText": "Reminder: Update your profile before the deadline.",
+    "Timestamp": "2025-11-14T09:15:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "admin_bot",
+    "ReceiverUsername": "lulu",
+    "NotificationText": "Notification1",
+    "Timestamp": "2025-11-15T09:15:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "kuku",
+    "ReceiverUsername": "lulu",
+    "NotificationText": "Notification2",
+    "Timestamp": "2025-11-16T09:16:00",
+    "Starred": true
+  },
+  {
+    "SenderUsername": "moti_dev",
+    "ReceiverUsername": "team_alpha",
+    "NotificationText": "Meeting rescheduled to Monday at 10 AM.",
+    "Timestamp": "2025-11-13T17:45:00",
+    "Starred": true
+  },
+  {
+    "SenderUsername": "support_team",
+    "ReceiverUsername": "alice123",
+    "NotificationText": "Your password was changed successfully.",
+    "Timestamp": "2025-11-12T08:00:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "lulu",
+    "ReceiverUsername": "moti_dev",
+    "NotificationText": "Can you review my latest code update?",
+    "Timestamp": "2025-11-11T21:10:00",
+    "Starred": true
+  },
+  {
+    "SenderUsername": "lulu",
+    "ReceiverUsername": "kuku",
+    "NotificationText": "Hello kuku, you have a new notification!",
+    "Timestamp": "2025-11-23T16:11:08.9525321+02:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "lulu",
+    "ReceiverUsername": "kuku",
+    "NotificationText": "Hello kuku, you have a new notification!",
+    "Timestamp": "2025-11-23T16:11:11.3686478+02:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "kuku",
+    "ReceiverUsername": "pupu",
+    "NotificationText": "Hello pupu, you have a new notification!",
+    "Timestamp": "2025-11-23T16:20:15.3433227+02:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "kuku",
+    "ReceiverUsername": "pupu",
+    "NotificationText": "Hello pupu, you have a new notification!",
+    "Timestamp": "2025-11-23T16:20:16.4568089+02:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "kuku",
+    "ReceiverUsername": "pupu",
+    "NotificationText": "Hello pupu, you have a new notification!",
+    "Timestamp": "2025-11-29T07:56:18.9829578+02:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "kuku",
+    "ReceiverUsername": "pupu",
+    "NotificationText": "Hello pupu, you have a new notification!",
+    "Timestamp": "2025-11-29T07:56:20.3841871+02:00",
+    "Starred": true
+  },
+  {
+    "SenderUsername": "lulu",
+    "ReceiverUsername": "pupu",
+    "NotificationText": "Hello pupu, you have a new notification!",
+    "Timestamp": "2025-11-29T08:17:33.1466533+02:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "lulu",
+    "ReceiverUsername": "kuku",
+    "NotificationText": "harta barta",
+    "Timestamp": "2025-11-29T08:58:53.5233842+02:00",
+    "Starred": false
+  },
+  {
+    "SenderUsername": "lulu",
+    "ReceiverUsername": "pupu",
+    "NotificationText": "ddd",
+    "Timestamp": "2025-11-29T09:11:25.2210083+02:00",
+    "Starred": false
+  }
+]

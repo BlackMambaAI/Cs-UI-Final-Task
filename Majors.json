@@ -1,0 +1,44 @@
+{
+  "MajorOfStudies": [
+    {
+      "Name": "Computer Science",
+      "Courses": [
+        { "CourseName": "Data Structures", "CreditPoints": 4 },
+        { "CourseName": "Algorithms", "CreditPoints": 4 },
+        { "CourseName": "Operating Systems", "CreditPoints": 3 },
+        { "CourseName": "Computer Networks", "CreditPoints": 3 },
+        { "CourseName": "Database Systems", "CreditPoints": 3 },
+        { "CourseName": "Software Engineering", "CreditPoints": 3 },
+        { "CourseName": "Artificial Intelligence", "CreditPoints": 4 },
+        { "CourseName": "Machine Learning", "CreditPoints": 4 },
+        { "CourseName": "Web Development", "CreditPoints": 2 },
+        { "CourseName": "Mobile App Development", "CreditPoints": 2 },
+        { "CourseName": "Cybersecurity", "CreditPoints": 3 },
+        { "CourseName": "Cloud Computing", "CreditPoints": 3 },
+        { "CourseName": "Human-Computer Interaction", "CreditPoints": 2 },
+        { "CourseName": "Computer Graphics", "CreditPoints": 3 },
+        { "CourseName": "Parallel Computing", "CreditPoints": 3 }
+      ]
+    },
+    {
+      "Name": "Business Administration",
+      "Courses": [
+        { "CourseName": "Microeconomics", "CreditPoints": 3 },
+        { "CourseName": "Macroeconomics", "CreditPoints": 3 },
+        { "CourseName": "Accounting Principles", "CreditPoints": 4 },
+        { "CourseName": "Financial Management", "CreditPoints": 4 },
+        { "CourseName": "Marketing Fundamentals", "CreditPoints": 3 },
+        { "CourseName": "Organizational Behavior", "CreditPoints": 3 },
+        { "CourseName": "Business Law", "CreditPoints": 2 },
+        { "CourseName": "Strategic Management", "CreditPoints": 3 },
+        { "CourseName": "Entrepreneurship", "CreditPoints": 2 },
+        { "CourseName": "Operations Management", "CreditPoints": 3 },
+        { "CourseName": "International Business", "CreditPoints": 3 },
+        { "CourseName": "Business Ethics", "CreditPoints": 2 },
+        { "CourseName": "E-Commerce", "CreditPoints": 2 },
+        { "CourseName": "Leadership", "CreditPoints": 3 },
+        { "CourseName": "Project Management", "CreditPoints": 3 }
+      ]
+    }
+  ]
+}
